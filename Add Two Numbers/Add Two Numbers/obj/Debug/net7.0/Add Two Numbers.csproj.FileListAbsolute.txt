@@ -1,0 +1,15 @@
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Add Two Numbers\Add Two Numbers\bin\Debug\net7.0\Add Two Numbers.exe
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Add Two Numbers\Add Two Numbers\bin\Debug\net7.0\Add Two Numbers.deps.json
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Add Two Numbers\Add Two Numbers\bin\Debug\net7.0\Add Two Numbers.runtimeconfig.json
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Add Two Numbers\Add Two Numbers\bin\Debug\net7.0\Add Two Numbers.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Add Two Numbers\Add Two Numbers\bin\Debug\net7.0\Add Two Numbers.pdb
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Add Two Numbers\Add Two Numbers\obj\Debug\net7.0\Add Two Numbers.csproj.AssemblyReference.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Add Two Numbers\Add Two Numbers\obj\Debug\net7.0\Add Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Add Two Numbers\Add Two Numbers\obj\Debug\net7.0\Add Two Numbers.AssemblyInfoInputs.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Add Two Numbers\Add Two Numbers\obj\Debug\net7.0\Add Two Numbers.AssemblyInfo.cs
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Add Two Numbers\Add Two Numbers\obj\Debug\net7.0\Add Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Add Two Numbers\Add Two Numbers\obj\Debug\net7.0\Add Two Numbers.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Add Two Numbers\Add Two Numbers\obj\Debug\net7.0\refint\Add Two Numbers.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Add Two Numbers\Add Two Numbers\obj\Debug\net7.0\Add Two Numbers.pdb
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Add Two Numbers\Add Two Numbers\obj\Debug\net7.0\Add Two Numbers.genruntimeconfig.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Add Two Numbers\Add Two Numbers\obj\Debug\net7.0\ref\Add Two Numbers.dll
