@@ -1,0 +1,15 @@
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 6\solution - 6\bin\Debug\net7.0\solution - 6.exe
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 6\solution - 6\bin\Debug\net7.0\solution - 6.deps.json
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 6\solution - 6\bin\Debug\net7.0\solution - 6.runtimeconfig.json
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 6\solution - 6\bin\Debug\net7.0\solution - 6.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 6\solution - 6\bin\Debug\net7.0\solution - 6.pdb
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 6\solution - 6\obj\Debug\net7.0\solution - 6.csproj.AssemblyReference.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 6\solution - 6\obj\Debug\net7.0\solution - 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 6\solution - 6\obj\Debug\net7.0\solution - 6.AssemblyInfoInputs.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 6\solution - 6\obj\Debug\net7.0\solution - 6.AssemblyInfo.cs
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 6\solution - 6\obj\Debug\net7.0\solution - 6.csproj.CoreCompileInputs.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 6\solution - 6\obj\Debug\net7.0\solution - 6.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 6\solution - 6\obj\Debug\net7.0\refint\solution - 6.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 6\solution - 6\obj\Debug\net7.0\solution - 6.pdb
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 6\solution - 6\obj\Debug\net7.0\solution - 6.genruntimeconfig.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 6\solution - 6\obj\Debug\net7.0\ref\solution - 6.dll
