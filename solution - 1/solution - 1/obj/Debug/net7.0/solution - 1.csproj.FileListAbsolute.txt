@@ -1,0 +1,15 @@
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 1\solution - 1\bin\Debug\net7.0\solution - 1.exe
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 1\solution - 1\bin\Debug\net7.0\solution - 1.deps.json
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 1\solution - 1\bin\Debug\net7.0\solution - 1.runtimeconfig.json
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 1\solution - 1\bin\Debug\net7.0\solution - 1.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 1\solution - 1\bin\Debug\net7.0\solution - 1.pdb
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 1\solution - 1\obj\Debug\net7.0\solution - 1.csproj.AssemblyReference.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 1\solution - 1\obj\Debug\net7.0\solution - 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 1\solution - 1\obj\Debug\net7.0\solution - 1.AssemblyInfoInputs.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 1\solution - 1\obj\Debug\net7.0\solution - 1.AssemblyInfo.cs
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 1\solution - 1\obj\Debug\net7.0\solution - 1.csproj.CoreCompileInputs.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 1\solution - 1\obj\Debug\net7.0\solution - 1.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 1\solution - 1\obj\Debug\net7.0\refint\solution - 1.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 1\solution - 1\obj\Debug\net7.0\solution - 1.pdb
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 1\solution - 1\obj\Debug\net7.0\solution - 1.genruntimeconfig.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\solution - 1\solution - 1\obj\Debug\net7.0\ref\solution - 1.dll
