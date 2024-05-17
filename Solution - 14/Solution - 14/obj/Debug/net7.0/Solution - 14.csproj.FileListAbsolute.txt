@@ -1,0 +1,15 @@
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Solution - 14\Solution - 14\bin\Debug\net7.0\Solution - 14.exe
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Solution - 14\Solution - 14\bin\Debug\net7.0\Solution - 14.deps.json
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Solution - 14\Solution - 14\bin\Debug\net7.0\Solution - 14.runtimeconfig.json
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Solution - 14\Solution - 14\bin\Debug\net7.0\Solution - 14.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Solution - 14\Solution - 14\bin\Debug\net7.0\Solution - 14.pdb
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Solution - 14\Solution - 14\obj\Debug\net7.0\Solution - 14.csproj.AssemblyReference.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Solution - 14\Solution - 14\obj\Debug\net7.0\Solution - 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Solution - 14\Solution - 14\obj\Debug\net7.0\Solution - 14.AssemblyInfoInputs.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Solution - 14\Solution - 14\obj\Debug\net7.0\Solution - 14.AssemblyInfo.cs
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Solution - 14\Solution - 14\obj\Debug\net7.0\Solution - 14.csproj.CoreCompileInputs.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Solution - 14\Solution - 14\obj\Debug\net7.0\Solution - 14.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Solution - 14\Solution - 14\obj\Debug\net7.0\refint\Solution - 14.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Solution - 14\Solution - 14\obj\Debug\net7.0\Solution - 14.pdb
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Solution - 14\Solution - 14\obj\Debug\net7.0\Solution - 14.genruntimeconfig.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Backend\C#\project-euler\Solution - 14\Solution - 14\obj\Debug\net7.0\ref\Solution - 14.dll
